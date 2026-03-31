@@ -8,4 +8,3 @@ def slice_advanced():
 
     print(texto[4::2])
 
-slice_advanced()
