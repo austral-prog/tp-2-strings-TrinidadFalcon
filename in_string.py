@@ -3,7 +3,6 @@ def check_vowels():
     sin distinguir mayúsculas de minúsculas.
     """
 
-
     nombre= input("Ingrese nombre: ")
 
     nombre= f'{nombre}'.lower()
