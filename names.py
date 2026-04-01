@@ -7,7 +7,7 @@ def names():
     nombre= input('ingrese su nombre: ')
     apellido= input('ingrese su apellido: ')
 
-    nombre_completo = nombre + " " + apellido
+    nombre_completo= nombre + " " + apellido
 
     print(nombre_completo.lower())
     print(nombre_completo.title())
